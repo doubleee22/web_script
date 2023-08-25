@@ -4,7 +4,7 @@ func runCommands(commands: [String]) -> String? {
     let task = Process()
     task.launchPath = "/usr/bin/env"
 
-    let pythonPath = "YOUR PATH TO TENDER_SCRIPT FOLDER"
+    let pythonPath = "YOUR PATH TO TO_CHANGE FOLDER"
     let pythonEnv = [
         "PYTHONPATH": pythonPath
     ]
