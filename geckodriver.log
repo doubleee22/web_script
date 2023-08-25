@@ -4968,3 +4968,104 @@ Exiting due to channel error.
 Exiting due to channel error.
 Exiting due to channel error.
 Exiting due to channel error.
+1692939568734	geckodriver	INFO	Listening on 127.0.0.1:58211
+1692939569237	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/t3/m3qfb5zs2_17kl8tn2kymg4h0000gn/T/rust_mozprofile1Ca2lb"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692939570032	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1692939570457	Marionette	INFO	Listening on port 58219
+WebDriver BiDi listening on ws://127.0.0.1:58212
+Read port: 58219
+1692939570558	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58212/devtools/browser/cc21e781-13cf-430f-90ad-4ea88149c524
+1692939572932	geckodriver	INFO	Listening on 127.0.0.1:58230
+1692939573443	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/t3/m3qfb5zs2_17kl8tn2kymg4h0000gn/T/rust_mozprofileM3hQel"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692939573813	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1692939574118	Marionette	INFO	Listening on port 58244
+WebDriver BiDi listening on ws://127.0.0.1:58231
+Read port: 58244
+1692939574311	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58231/devtools/browser/7a6e5fe9-cb9e-40af-bc05-df1aba7df7cf
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1692969565912	geckodriver	INFO	Listening on 127.0.0.1:60440
+1692969566425	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/t3/m3qfb5zs2_17kl8tn2kymg4h0000gn/T/rust_mozprofileKNrJXl"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692969567309	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1692969567743	Marionette	INFO	Listening on port 60448
+Read port: 60448
+WebDriver BiDi listening on ws://127.0.0.1:60441
+1692969567842	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60441/devtools/browser/dac90f5d-f118-47d3-93c2-c382c96887aa
+1692969569949	geckodriver	INFO	Listening on 127.0.0.1:60460
+1692969570465	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/t3/m3qfb5zs2_17kl8tn2kymg4h0000gn/T/rust_mozprofilerY0fFM"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692969570899	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1692969571136	Marionette	INFO	Listening on port 60472
+WebDriver BiDi listening on ws://127.0.0.1:60461
+Read port: 60472
+1692969571328	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60461/devtools/browser/9198f0b7-9d95-458b-adc6-202e3210b8a5
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.fabrikant.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.fabrikant.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.fabrikant.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.fabrikant.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.fabrikant.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.fabrikant.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.fabrikant.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.fabrikant.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.fabrikant.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rostender.info."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rostender.info."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rostender.info."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rostender.info."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rostender.info."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rostender.info."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rostender.info."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rostender.info."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rostender.info."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.rosatom.rts-tender.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.rosatom.rts-tender.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.rosatom.rts-tender.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.rosatom.rts-tender.ru."
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.rosatom.rts-tender.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.rosatom.rts-tender.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.rosatom.rts-tender.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.rosatom.rts-tender.ru."
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.rosatom.rts-tender.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.rosatom.rts-tender.ru."
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.rosatom.rts-tender.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.rosatom.rts-tender.ru."
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.rosatom.rts-tender.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.rosatom.rts-tender.ru."
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.rosatom.rts-tender.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.rosatom.rts-tender.ru."
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.rosatom.rts-tender.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.rosatom.rts-tender.ru."
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sso.sbis.ru."
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 597))

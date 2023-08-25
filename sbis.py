@@ -2,11 +2,11 @@ import time
 import random
 from selenium import webdriver
 from selenium.webdriver.common.by import By
-import passes
-import input_list
+from to_change import passes
+from to_change import input_list
 import web_list
 from selenium.webdriver.support import expected_conditions as EC
-
+from to_change import passes
 driver = webdriver.Firefox()
 
 
