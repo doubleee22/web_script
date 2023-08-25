@@ -25,6 +25,8 @@ ARC64 CPUs executable file creation:
 
 pip3 install pyinstaller
 
+pip3 install selenium
+
 cd (path to the WEB_SCRIPT folder)
 
 pyinstaller --onefile main.py
@@ -40,6 +42,8 @@ x64 (x86_64) CPUs executable file creation:
 
 --
 **Run following commands in Terminal:**
+
+pip3 install selenium
 
 cd (path to the TO_CHANGE folder)
 
