@@ -4,9 +4,11 @@
 
 It's now only **optimized for mac os** (ARC64 and x64 CPUs).
 
-For running a script on x64 CPUs (M1 Macs 2020 and older) conviniently - via executable file - you will need to install Swift. 
+For running the script via executable file you need a pip install to be installed. 
+For running the script on x64 CPUs via executable file you also need Swift (Xcode) to be installed.
 
 Instructions: 
+
 --
 
 TENDERS TO SEARCH:
