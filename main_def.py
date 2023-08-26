@@ -2,7 +2,6 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 import web_list
 from to_change import input_list
-from to_change import passes
 import sbis
 
 driver = webdriver.Firefox()
